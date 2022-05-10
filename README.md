@@ -1,11 +1,11 @@
 ### Hello, I'm Julia Lenczewska
 
-- 🌻 Junior Frontend Developer
-- 🌻 HTML, CSS (SCSS), RWD, BEM, Bootstrap, JavaScript, React.js, Vue.js
-- 🌻 REST API, Axios
-- 🌻 MySQL
-- 🌻 Gulp 
-- 🌻 Git, Figma
+🌻 Junior Frontend Developer
+🌻 HTML, CSS (SCSS), RWD, BEM, Bootstrap, JavaScript, React.js, Vue.js
+🌻 REST API, Axios
+🌻 MySQL
+🌻 Gulp 
+🌻 Git, Figma
 
 
 
