@@ -7,6 +7,7 @@
 - 🌻 Gulp 
 - 🌻 Git, Figma
 
+In progress: Redux, GSAP
 
 
 ## My projects 
